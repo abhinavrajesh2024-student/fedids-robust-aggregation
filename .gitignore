@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.pyc
+run.log
+paper/*.pdf
+paper/*.docx
+paper/*.jpg
